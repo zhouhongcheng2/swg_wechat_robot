@@ -1,5 +1,5 @@
 <?php
-namespace swg\wechat_robot;
+namespace Swg\WechatRobot;
 
 class WechatRobot
 {
