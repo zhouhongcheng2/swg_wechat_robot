@@ -1,0 +1,20 @@
+{
+    "name": "swg/wechat_robot",
+    "description": "山王果企业微信机器人",
+    "type": "libary",
+    "require": {
+        "php": ">=7.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Swg\\WechatRobot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "周洪成",
+            "email": "zhouhc@jqlink.cn"
+        }
+    ]
+}
